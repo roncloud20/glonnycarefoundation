@@ -14,6 +14,9 @@ function Header() {
               <li><a href="#" className="link-button">Donate</a></li>
           </span>
         </header>
+
+        <h1>Lorem Ispum</h1>
+        <h3>Lorem Ispum, vex lake turn five make un una max rull dan dell well bell don't take una </h3>
       </div>
     );
   }

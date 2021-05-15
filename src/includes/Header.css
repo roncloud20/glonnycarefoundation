@@ -32,3 +32,19 @@ header span li a {
     cursor: pointer;
     border-radius: 30px;
 }
+
+.Header h1 {
+    font-size: 200px;
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.Header h3 {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
