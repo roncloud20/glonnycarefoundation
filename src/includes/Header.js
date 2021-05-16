@@ -1,4 +1,4 @@
-import './Header.css';
+import './Styles.css';
 import logo from './images/translogo.png';
 
 function Header() {
@@ -16,7 +16,11 @@ function Header() {
         </header>
 
         <h1>Lorem Ispum</h1>
-        <h3>Lorem Ispum, vex lake turn five make un una max rull dan dell well bell don't take una </h3>
+        <h2>Lorem Ispum, vex lake turn five make un una max rull dan dell well bell don't take una </h2>
+        <div className="head-butts">
+          <a href="#" className="link-button">Foundation</a>
+          <a href="#" className="link-button link-green">Network</a>
+        </div>
       </div>
     );
   }
